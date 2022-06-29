@@ -1,1 +1,1 @@
-https://medium.com/@mamathapaithara/introduction-to-intel-distribution-of-openvino-toolkit-for-deep-learning-105f953a10ac
+**Introduction To Intel Distribution Of OpenVINO Toolkit for Deep Learning**
