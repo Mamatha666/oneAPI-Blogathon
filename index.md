@@ -44,13 +44,13 @@ OpenVINO toolkit includes two primary components: Model Optimizer and Inference 
 
 ![image](https://user-images.githubusercontent.com/75186414/176489432-a33b7760-cfd8-4514-97f0-1d3dbc6a9071.png)
 
-**What are the benefits of using OpenVINO?**
+**What are the benefits of using OpenVINO™?**
 
-In layman’s terms, you should use OpenVINO when you’d like to run many models on different devices at the same time
-**
-Installation**
+In layman’s terms, you should use OpenVINO™ when you’d like to run many models on different devices at the same time
+
+**Installation**
 
 Look over the system requirements and install the toolkit to set up the Environment
 
-To develop the model and obtain the optimization toolkit, install OpenVINO Development Tools by using the following command.
+To develop the model and obtain the optimization toolkit, install OpenVINO™ Development Tools by using the following command.
 
