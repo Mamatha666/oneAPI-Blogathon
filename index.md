@@ -3,6 +3,8 @@
 **Accelerate Deep Learning Inference with  OpenVINO™ Toolkit**
 
 ![33](https://user-images.githubusercontent.com/75186414/176487352-0ade5f33-789b-4a47-af7a-0426f88c2b84.jpeg)
+
+
 **
 Introduction to  OpenVINO™**
 
@@ -10,7 +12,7 @@ Open Visual Inference and Neural network Optimization(OpenVINO) is an open-sourc
 
 Intel has developed an open API (OpenVINO) that allows us to execute a model across the devices without understanding the hardware details or the underlying libraries required to access them. Software developers and Data Scientists who work on computer vision can use this product to help speed up their solutions on a variety of platforms, including CPU, GPU, VPU, and FPGA. In short, One can optimize and deploy their trained neural networks and Deep Learning models quickly at the Edge.
 
-**What’s inside the   toolkit?**
+**What’s inside the OpenVINO™ toolkit?**
 
 **Model Optimizer:** It is a command-line tool that uses static model analysis for optimal execution of the deep learning model by adjusting the network. It produces an Intermediate Representation (IR) of the model which can be used as the input for the Inference engine.
 
