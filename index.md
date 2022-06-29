@@ -5,8 +5,8 @@
 ![33](https://user-images.githubusercontent.com/75186414/176487352-0ade5f33-789b-4a47-af7a-0426f88c2b84.jpeg)
 
 
-**
-Introduction to  OpenVINO™**
+
+**Introduction to  OpenVINO™**
 
 Open Visual Inference and Neural network Optimization(OpenVINO) is an open-source toolkit developed by Intel. It is a set of libraries, optimization tools, and information resources that can be used to fast-track the development of cost-effective computer vision and deep learning applications which emulate human vision.
 
